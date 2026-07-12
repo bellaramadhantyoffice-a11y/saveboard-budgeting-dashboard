@@ -90,7 +90,7 @@ export default function Home() {
         <div className="confetti confetti-right" aria-hidden="true" />
         <div className="hero-copy">
           <span className="eyebrow">Interactive money workspace</span>
-          <h1>Plan spending, protect savings, and steer the month.</h1>
+          <h1>Belloooo spending, protect savings, and steer the month.</h1>
           <p>
             A focused budgeting dashboard for household cash flow, monthly reports,
             savings goals, and account preferences.
