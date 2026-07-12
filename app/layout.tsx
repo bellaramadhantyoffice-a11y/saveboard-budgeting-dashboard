@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Saveboard | Saving and Budgeting Dashboard",
+  title: "Saveboard by Bella | Saving and Budgeting Dashboard",
   description:
     "Interactive saving and budgeting workspace with dashboard, monthly reporting, goals, and settings.",
   icons: {
